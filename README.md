@@ -1,6 +1,6 @@
 # ParticleExplosion
 
-**ParticleExplosion** is a C++ program that simulates a particle explosion. And allows for a small interaction with the program.  
+**ParticleExplosion** is a C++ program that simulates a particle explosion and allows for a small interaction with the user.  
   This project is based on a lesson of [John Purcell's C++ tutorial](https://www.udemy.com/course/free-learn-c-tutorial-beginners/). 
 
 ## Usage
